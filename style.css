@@ -1,0 +1,26 @@
+ol, li, p{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+li{
+    font-size: 18px; 
+}
+
+h1{
+    font-size: 30px;
+    font-family: "Courier New", sans-serif;
+}
+
+h2{
+    font-size: 22px;
+    font-family: sans-serif, Geneva;
+}
+
+ol{
+    background-color: rgb(180, 39, 39);
+}
+
+img{
+    height: auto;
+    width: 300px;
+}
