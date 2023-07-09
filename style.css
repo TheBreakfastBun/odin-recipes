@@ -4,6 +4,25 @@ ol, li, p{
 
 li{
     font-size: 18px; 
+
+}
+
+.listItems{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgb(114, 144, 170);
+    margin: 10px;
+    text-align: center;
+}
+
+.homeBackground{
+    background-color: rgb(43, 28, 28);
+}
+
+.unorderList{
+    display: inline-block;
 }
 
 h1{
